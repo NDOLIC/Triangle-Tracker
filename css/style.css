@@ -13,3 +13,8 @@ p{
   margin-left: 300px;
   margin-right: 300px;
 }
+p:hover{
+    background-color: white;
+    margin-right: 300px;
+    margin-left: 300
+}
