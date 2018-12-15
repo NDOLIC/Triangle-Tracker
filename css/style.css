@@ -37,3 +37,9 @@ body{
     background-size: cover;
     opacity: 500px;
 }
+.scripts{
+        background-repeat: no-repeat;
+        background-size: cover;    
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-iuKaiwMc8bYqwIxIIaIsFMwGIsucq-g4AJjXTCYf8vm2d209ZA);
+}
