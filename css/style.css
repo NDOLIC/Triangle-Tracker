@@ -18,3 +18,16 @@ p:hover{
     margin-right: 300px;
     margin-left: 300
 }
+li{
+    text-decoration: black underline;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: serif;
+}
+li:hover{
+    background-color: aqua;
+    margin-right: 400px;
+    margin-left: 400px;
+}
