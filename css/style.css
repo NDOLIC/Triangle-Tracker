@@ -43,3 +43,8 @@ body{
     text-align: center;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-iuKaiwMc8bYqwIxIIaIsFMwGIsucq-g4AJjXTCYf8vm2d209ZA);
 }
+@media screen and (min-width: 800px) {
+    body {
+      background-color: rgb(63, 128, 63);
+    }
+  }
