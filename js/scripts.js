@@ -1,7 +1,7 @@
 function triangle()
 {
   // Declare sides and precise that they are intigers.
-    
+    var sides = ["side1","side2","side3"];
     var side1 = parseInt(document.getElementById("side1").value);
     var side2 = parseInt(document.getElementById("side2").value);
     var side3 = parseInt(document.getElementById("side3").value);
